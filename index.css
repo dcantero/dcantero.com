@@ -1,0 +1,29 @@
+.dev{
+    text-align: center;
+    font-family: sofia-pro, sans-serif;
+    color: #ededed;
+    font-size: 9vw;
+    line-height: 9vw;
+    text-shadow: 0 0 3vw #eaeaea;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    font-size: 2rem;
+}
+
+.exprealty{
+    transition: .3s;
+}
+
+.exprealty:hover{
+    color: rgb(160, 180, 252);
+}
+
+.daniel-cantero{
+    margin-left: auto;
+    margin-right: auto ;
+    position:absolute;
+    right: 47%;
+    bottom: 0;
+    margin-bottom: 10px;
+}
