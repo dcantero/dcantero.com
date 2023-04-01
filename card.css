@@ -116,3 +116,10 @@ a:hover{
 .fa:hover{
     color: #5264AE;
 }
+
+.qr-box{
+    text-align: center;
+}
+.qr{
+    width: 280px;
+}
