@@ -1,0 +1,32 @@
+*{
+    background-color: #21232a;
+    font-weight: 600;
+}
+
+.socials{
+    margin-top: 20px;
+}
+
+.fa{
+    font-size: 17pt;
+    margin: 10px;
+    background-color: #10121B;
+    padding: 12px;
+    border-radius: 10px;
+    transition: .3s;
+}
+
+.fa:hover{
+    color: #5264AE;
+}
+
+hr {
+    width: 50px;
+    text-align: center;
+    border: none;
+    border-top: 2px solid rgb(126, 147, 190);
+}
+
+.bottom-line{
+    margin-top: 20px;
+}
